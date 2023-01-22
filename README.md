@@ -1,1 +1,1 @@
-# library
+Library App made using HTML, CSS and JavaScript
